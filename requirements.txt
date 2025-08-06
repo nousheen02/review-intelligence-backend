@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+textblob
+rake-nltk
+wordcloud
+matplotlib
+python-multipart
